@@ -1,6 +1,7 @@
 <h1>Google IT Support Professional Certificate</h1>
 
 - Google – Issued by Coursera in partnership with Google
+- 6-8 Months Program
 - Completed: August 2024
 
 
