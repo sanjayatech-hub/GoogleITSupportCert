@@ -17,10 +17,10 @@ Completed a comprehensive program focused on troubleshooting, customer service, 
 - Customer Service and End-User Support
 <h2>Certificate Showcase:</h2>
 
-<p align="center">
-View Credential <br/>
+<p align="center"> 
+  View Credential: https://coursera.org/verify/professional-cert/E8EKY6LFJS7D <br/>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+<br/>
 
 </p>
 
