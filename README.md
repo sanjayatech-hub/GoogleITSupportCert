@@ -20,7 +20,8 @@ Completed a comprehensive program focused on troubleshooting, customer service, 
 
 <p align="center"> 
   View Credential: https://coursera.org/verify/professional-cert/E8EKY6LFJS7D <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://i.imgur.com/qwQpIh9.png" height="80%" width="80%" alt="jj"/>
 <br/>
 
 </p>
